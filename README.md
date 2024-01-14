@@ -34,5 +34,5 @@ $ npm run build
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/BQajlyU.png)
+![](https://i.imgur.com/rfiu12m.png)
 > 應用程式內所有可使用的路徑就一目了然，增加團隊合作時的效率
